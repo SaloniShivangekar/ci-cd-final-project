@@ -1,0 +1,7 @@
+- name: cleanup
+  taskRef:
+    name: cleanup
+
+    - name: nose
+  taskRef:
+    name: nose
