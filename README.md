@@ -1,5 +1,7 @@
 # ci-cd-final-project
 
+[![CI Build](https://github.com/SaloniShivangekar/ci-cd-final-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/SaloniShivangekar/ci-cd-final-project/actions/workflows/ci-build.yaml)
+
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
 ## Usage
